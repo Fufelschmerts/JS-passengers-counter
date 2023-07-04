@@ -1,4 +1,4 @@
-# Passengers counter
+# JS Passengers counter
 
 Quick start:
 
